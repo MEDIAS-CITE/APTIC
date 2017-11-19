@@ -1,5 +1,5 @@
-Welcome to Zammad's documentation!
-==================================
+Bienvenue à la documentation de #APTIC!
+=======================================
 
 The documentation for Zammad is organized into a couple of sections:
 
