@@ -15,6 +15,7 @@ If you like to edit the docs use the ReStructuredText markup language. Informati
 
 http://www.sphinx-doc.org/en/stable/rest.html
 http://docs.readthedocs.io/en/latest/_themes/sphinx_rtd_theme/demo_docs/source/demo.html
+
 Merci! ❤ ❤ ❤
 
 #APTIC Team
